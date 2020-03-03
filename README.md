@@ -1,7 +1,6 @@
-# Starter Web Repo
+# starter-web project
 
-This repository is for showing how Git and GitHub work
+## introduction
 
-## Purpose
+## Git and GitHub training
 
-Sample website with plenty of files for demos
